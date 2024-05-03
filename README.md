@@ -3,7 +3,6 @@ Testing JLCPCB Flight Computer
 
 Welcome to the Testing JLCPCB Flight Computer repository! This project focuses on the development, testing, and optimization of a robust flight computer specifically designed for Estaca Space Launcher (ESL), using JLCPCB technology. In this repository, you'll find the source code, hardware schematics, testing procedures, build instructions, and other relevant resources.
 
-![Fully Assembled Board](path/to/fully_assembled_board.png)
 
 Table of Contents
 -----------------
@@ -62,8 +61,6 @@ Ground Station
 ![IMG_5550](https://github.com/DANY12345678910/Testing-JLCPCB-flight-computer/assets/107304619/1e12d77f-c105-49b0-a89c-009322eb0d65)
 
 The ground station helps us test the GPS, as we can see in the picture below. The ground station was coded on Python using the customtkinter library. It allows the user to open a Google Maps window and validate the GPS performance by comparing the position given by the GPS on the PCB with the position on the map. The user can also read the values of the sensors (IMU and barometer) on the serial monitor, ensuring proper soldering by JLCPCB, who partially assembled the board.
-
-![Ground Station](path/to/ground_station.png)
 
 Collaboration and Contributions
 -------------------------------
