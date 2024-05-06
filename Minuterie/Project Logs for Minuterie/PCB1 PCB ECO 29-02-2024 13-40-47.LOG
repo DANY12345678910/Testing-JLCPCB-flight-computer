@@ -1,0 +1,86 @@
+Add object: Défaillance irrémédiable (Exception de HRESULT : 0x8000FFFF (E_UNEXPECTED))
+Add object: Défaillance irrémédiable (Exception de HRESULT : 0x8000FFFF (E_UNEXPECTED))
+Add object: Défaillance irrémédiable (Exception de HRESULT : 0x8000FFFF (E_UNEXPECTED))
+Added Component: Designator=J1(Header 2_PIN)
+Added Component: Designator=J2(Header 2_PIN)
+Added Component: Designator=J3(Header 2_PIN)
+Added Component: Designator=J4(Header 2_PIN)
+Add object: Défaillance irrémédiable (Exception de HRESULT : 0x8000FFFF (E_UNEXPECTED))
+Added Component: Designator=J6(Header 2_PIN)
+Add object: Défaillance irrémédiable (Exception de HRESULT : 0x8000FFFF (E_UNEXPECTED))
+Add object: Défaillance irrémédiable (Exception de HRESULT : 0x8000FFFF (E_UNEXPECTED))
+Added Component: Designator=J9(Header 2_PIN)
+Added Component: Designator=J10(Header 2_PIN)
+Add object: Défaillance irrémédiable (Exception de HRESULT : 0x8000FFFF (E_UNEXPECTED))
+Add object: Défaillance irrémédiable (Exception de HRESULT : 0x8000FFFF (E_UNEXPECTED))
+Add object: Défaillance irrémédiable (Exception de HRESULT : 0x8000FFFF (E_UNEXPECTED))
+Add object: Défaillance irrémédiable (Exception de HRESULT : 0x8000FFFF (E_UNEXPECTED))
+Add object: Défaillance irrémédiable (Exception de HRESULT : 0x8000FFFF (E_UNEXPECTED))
+Add object: Défaillance irrémédiable (Exception de HRESULT : 0x8000FFFF (E_UNEXPECTED))
+Add object: Défaillance irrémédiable (Exception de HRESULT : 0x8000FFFF (E_UNEXPECTED))
+Add object: Défaillance irrémédiable (Exception de HRESULT : 0x8000FFFF (E_UNEXPECTED))
+Add object: Défaillance irrémédiable (Exception de HRESULT : 0x8000FFFF (E_UNEXPECTED))
+Add object: Défaillance irrémédiable (Exception de HRESULT : 0x8000FFFF (E_UNEXPECTED))
+Add object: Défaillance irrémédiable (Exception de HRESULT : 0x8000FFFF (E_UNEXPECTED))
+Add object: Défaillance irrémédiable (Exception de HRESULT : 0x8000FFFF (E_UNEXPECTED))
+Add object: Défaillance irrémédiable (Exception de HRESULT : 0x8000FFFF (E_UNEXPECTED))
+Added Component: Designator=TB1(SHIELD_ARDUINO_NANO)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/Arduino%20Nano/Arduino/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "Arduino Nano"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Non-Standard Arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/Arduino%20Nano/Arduino/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=TB1-17
+Added Net: Name=3V3
+Added Pin To Net: NetName=5V Pin=TB1-27
+Added Pin To Net: NetName=5V Pin=TB1-30
+Added Net: Name=5V
+Added Pin To Net: NetName=12V Pin=J1-2
+Added Pin To Net: NetName=12V Pin=J2-2
+Added Pin To Net: NetName=12V Pin=J3-2
+Added Net: Name=12V
+Added Pin To Net: NetName=COLL Pin=J4-2
+Added Net: Name=COLL
+Added Pin To Net: NetName=EMM Pin=J4-1
+Added Net: Name=EMM
+Added Pin To Net: NetName=Fm1 Pin=J1-1
+Added Net: Name=Fm1
+Added Pin To Net: NetName=Fm2 Pin=J2-1
+Added Net: Name=Fm2
+Added Pin To Net: NetName=Fm3 Pin=J3-1
+Added Net: Name=Fm3
+Added Pin To Net: NetName=GND Pin=J6-2
+Added Pin To Net: NetName=GND Pin=J9-2
+Added Pin To Net: NetName=GND Pin=J10-2
+Added Pin To Net: NetName=GND Pin=TB1-4
+Added Pin To Net: NetName=GND Pin=TB1-29
+Added Net: Name=GND
+Added Pin To Net: NetName=IN Pin=TB1-8
+Added Net: Name=IN
+Added Pin To Net: NetName=LED Pin=TB1-6
+Added Net: Name=LED
+Added Pin To Net: NetName=MOS1 Pin=TB1-2
+Added Net: Name=MOS1
+Added Pin To Net: NetName=MOS2 Pin=TB1-1
+Added Net: Name=MOS2
+Added Pin To Net: NetName=MOS3 Pin=TB1-5
+Added Net: Name=MOS3
+Added Pin To Net: NetName=NetD1_2 Pin=J9-1
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD2_2 Pin=J10-1
+Added Net: Name=NetD2_2
+Added Net: Name=NetLED1_1
+Added Net: Name=NetLED2_1
+Added Net: Name=NetLED3_1
+Added Pin To Net: NetName=OUT Pin=J6-1
+Added Pin To Net: NetName=OUT Pin=TB1-7
+Added Net: Name=OUT
+Added Pin To Net: NetName=SERVO 1 Pin=TB1-10
+Added Net: Name=SERVO 1
+Added Pin To Net: NetName=SERVO 2 Pin=TB1-11
+Added Net: Name=SERVO 2
+Added Pin To Net: NetName=SERVO 3 Pin=TB1-12
+Added Net: Name=SERVO 3
